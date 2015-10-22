@@ -12,6 +12,8 @@
 @property (weak, nonatomic) IBOutlet UIScrollView *iScrollView;
 @property (weak, nonatomic) IBOutlet UITableView *iTableView;
 
+@property (weak, nonatomic) IBOutlet UILabel *infolabel;
+@property (weak, nonatomic) IBOutlet UIView *midView;
 
 @end
 
